@@ -7,7 +7,7 @@ Battery Health WMI Reader is a C# console application that displays various batt
 Tested on Surface Studio and Surface Laptop devices I own.
 
 ## Sample Screenshot
-
+![screenshot](screenshot.png "Screenshot")
 
 ## System Requirements
 
