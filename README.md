@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Battery Health Monitor is a C# console application that displays various battery statistics for a machine running Windows. It uses Windows Management Instrumentation (WMI) to gather battery-related data such as full charged capacity, designed capacity, cycle count, and other battery status indicators. Additionally, it provides information on the motherboard details including the product, manufacturer, and serial number.
+Battery Health WMI Reader is a C# console application that displays various battery statistics for a machine running Windows. It uses Windows Management Instrumentation (WMI) to gather battery-related data such as full charged capacity, designed capacity, cycle count, and other battery status indicators. Additionally, it provides information on the motherboard details including the product, manufacturer, and serial number.
 
 Tested on Surface Studio and Surface Laptop devices I own.
 
