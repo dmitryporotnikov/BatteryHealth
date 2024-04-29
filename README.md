@@ -1,4 +1,4 @@
-# Battery Health Monitor
+# Battery Health WMI Reader
 
 ## Project Overview
 
