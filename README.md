@@ -23,7 +23,7 @@ Tested on Surface Studio and Surface Laptop devices I own.
 
 ## Contributing
 
-Contributions to improve Battery Health Monitor are welcome. Please feel free to fork the repository, make your changes, and/or submit a pull request.
+Contributions to improve Battery Health Reader are welcome. Please feel free to fork the repository, make your changes, and/or submit a pull request.
 
 ## License
 
